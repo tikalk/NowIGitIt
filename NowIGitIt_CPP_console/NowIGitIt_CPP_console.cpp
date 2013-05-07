@@ -9,6 +9,7 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
 	cout << "Starting 'Now I GIT it' demo on a console application" << endl;
+	cout << "Starting 'Now I GIT it' demo on a console application" << endl;
 	std::cin.get();
 
 	return 0;
